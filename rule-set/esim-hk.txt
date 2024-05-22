@@ -1,0 +1,12 @@
+###################
+#
+# eSim / Wi-Fi Calling (🇭🇰 HK)
+# update 2024-05-22
+#
+###################
+
+# CSL(Club Sim)
+DOMAIN,csl.prod.ondemandconnectivity.com
+DOMAIN,hhk.prod.ondemandconnectivity.com
+DOMAIN-SUFFIX,mnc000.mcc454.pub.3gppnetwork.org
+IP-CIDR,120.88.0.0/16,no-resolve

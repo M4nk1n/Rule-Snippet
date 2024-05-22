@@ -1,0 +1,10 @@
+###################
+#
+# eSim / Wi-Fi Calling (🇺🇸 US)
+# update 2024-05-22
+#
+###################
+
+# Ultra Mobile(PayGo)
+DOMAIN-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org
+IP-CIDR,208.54.0.0/16,no-resolve
