@@ -1,0 +1,20 @@
+###################
+#
+# Blizzard
+# update 2024-05-22
+#
+###################
+
+# > Diablo
+diablo2.blizzard.com
+
+# > Battle.Net
+us.battle.net
+kr.actual.battle.net
+us.actual.battle.net
+eu.actual.battle.net
+sg.actual.battle.net
+kr.logon.battle.net
+us.logon.battle.net
+eu.logon.battle.net
+sg.logon.battle.net

@@ -1,0 +1,27 @@
+###################
+#
+# Blizzard
+# update 2024-05-22
+#
+###################
+
+# > Battle.Net
+prod.actual.battle.net
+beta.actual.battle.net
+.actual.battle.net
+.logon.battle.net
+.patch.battle.net
+.battle.net
+.battlenet.com
+
+
+# > Blizzard
+cdp.cloud.unity3d.com
+.blizzard.com
+
+
+# > 下面是 RULE-SET 规则，用作 DOMAIN-SET 时注释掉
+
+# USER-AGENT,wowcompanion*,Game
+# USER-AGENT,hearthstone*,Game
+# USER-AGENT,Blizzard*,Game

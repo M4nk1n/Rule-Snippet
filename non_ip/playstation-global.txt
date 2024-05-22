@@ -1,0 +1,17 @@
+###################
+#
+# PlayStation
+# update 2024-05-22
+#
+# 参考资料：
+# PlayStation: https://github.com/Paull/hiwifi.easucks/issues/1
+#
+###################
+
+.playstation.com
+.playstation.com.hk
+.playstation.net
+
+# > PSN
+.playstationnetwork.com
+.sonyentertainmentnetwork.com
