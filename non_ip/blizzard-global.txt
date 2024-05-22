@@ -9,12 +9,22 @@
 diablo2.blizzard.com
 
 # > Battle.Net
-us.battle.net
+beta.actual.battle.net
+public-test.actual.battle.net
+tw.actual.battle.net
 kr.actual.battle.net
 us.actual.battle.net
 eu.actual.battle.net
 sg.actual.battle.net
+public-test.logon.battle.net
+tw.logon.battle.net
 kr.logon.battle.net
 us.logon.battle.net
 eu.logon.battle.net
 sg.logon.battle.net
+public-test.patch.battle.net
+tw.patch.battle.net
+kr.patch.battle.net
+us.patch.battle.net
+eu.patch.battle.net
+sg.patch.battle.net

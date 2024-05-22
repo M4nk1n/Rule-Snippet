@@ -3,11 +3,12 @@
 # Blizzard
 # update 2024-05-22
 #
+# 参考来源: https://bnetdocs.org/servers
+#
 ###################
 
 # > Battle.Net
 prod.actual.battle.net
-beta.actual.battle.net
 .actual.battle.net
 .logon.battle.net
 .patch.battle.net
