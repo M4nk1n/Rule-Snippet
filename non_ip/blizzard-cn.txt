@@ -1,0 +1,16 @@
+###################
+#
+# Blizzard
+# update 2024-05-22
+#
+###################
+
+# > Battle.Net
++.battlenet.com.cn
+
+# > Blizzard
+cn.actual.battle.net
+cn.logon.battle.net
+cn.patch.battle.net
++.blizzard.cn
++.blizzardgames.cn

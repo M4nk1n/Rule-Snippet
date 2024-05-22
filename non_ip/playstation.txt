@@ -1,0 +1,65 @@
+###################
+#
+# PlayStation
+# update 2024-05-22
+#
+# 参考资料：
+# PlayStation: https://github.com/Paull/hiwifi.easucks/issues/1
+#
+###################
+
+## 确定一个可疑域名为 NAT 等级测试，需加入强制不走代理（虽然 STUN 测试是 UDP 的，其实也不需要做转发，还是留下来作个记录吧）
+# hk.np.stun.playstation.net
+# us.np.stun.playstation.net
++.np.stun.playstation.net
+
+# > PlatStation Remote
+## 实际上 udp 协议的链接设置直连即可
+# remoteplay.dl.playstation.net
++.api.np.km.playstation.net
+
+# > Mac PlatStation Remote
+## 实际上 udp 协议的链接设置直连即可
+web.np.playstation.com
+
+# > iOS PlatStation Remote
+## 实际上 udp 协议的链接设置直连即可
+m.np.playstation.com
+# telemetry-mobile.api.playstation.com
+
+# > PSN
+# auth.api.sonyentertainmentnetwork.com
+# mobile-pushcl.np.communication.playstation.net
++.np.communication.playstation.net
++.np.community.playstation.net
+
+# > PlayStation Update & Download
+# telemetry-console.api.playstation.com
+# telemetry-cii.api.playstation.com
++.api.playstation.com
+ps5.np.playstation.net
+# .ps5.update.playstation.net
++.update.playstation.net
+# zeus.dl.playstation.net
+# ares.dl.playstation.net
+# theia.dl.playstation.net
+# nsx.np.dl.playstation.net
+# tmdb.np.dl.playstation.net
+# poseidon.dl.playstation.net
+# gs.ww.prod.dl.playstation.net
+# gs2.ww.prod.dl.playstation.net
+# psn-rsc.prod.dl.playstation.net
+# gs-sec.ww.np.dl.playstation.net
+# gst.prod.dl.playstation.net
++.dl.playstation.net
+
+
+# > 下面是 RULE-SET 规则，用作 DOMAIN-SET 时注释掉
+
+# > Mac PlatStation Remote
+# PROCESS-NAME,RemotePlay
+# AND,((PROCESS-NAME,RemotePlay), (PROTOCOL,UDP))
+
+# > iOS PlatStation Remote
+# USER-AGENT,RemotePlay*
+# AND,((USER-AGENT,RemotePlay*), (PROTOCOL,UDP))
