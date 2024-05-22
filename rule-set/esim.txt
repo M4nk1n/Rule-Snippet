@@ -1,0 +1,10 @@
+###################
+#
+# eSim / Wi-Fi Calling (Global)
+# update 2024-05-22
+#
+# [eSIM 体验总结 - V2EX](https://www.v2ex.com/t/931149)
+#
+###################
+
+DOMAIN-SUFFIX,prod.ondemandconnectivity.com
