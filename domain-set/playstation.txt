@@ -1,7 +1,7 @@
 ###################
 #
 # PlayStation
-# update 2024-05-22
+# update 2025-04-23
 #
 # 参考资料：
 # PlayStation: https://github.com/Paull/hiwifi.easucks/issues/1
@@ -52,6 +52,8 @@ ps5.np.playstation.net
 # gs-sec.ww.np.dl.playstation.net
 # gst.prod.dl.playstation.net
 +.dl.playstation.net
+# post.net.playstation.net
++.net.playstation.net
 
 
 # > 下面是 RULE-SET 规则，用作 DOMAIN-SET 时注释掉
